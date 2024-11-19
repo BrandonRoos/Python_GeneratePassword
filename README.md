@@ -1,6 +1,6 @@
 # Python_GeneratePassword
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
+ 
 ## Overview
 
 This is a simple password generator application built using Python and Tkinter. The application allows users to generate a secure, random password of a specified length. The generated password is saved to a file named `password.txt`.
